@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="app_db_name">MusicPlayerDB</string>
+    <string name="play_button">Play Button</string>
+    <string name="next_button">Next Button</string>
+    <string name="last_button">Last Button</string>
+    <string name="stop_button">Stop Button</string>
+</resources>
